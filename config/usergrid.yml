@@ -1,0 +1,17 @@
+development:
+  application_url: http://localhost:8080/test-organization/test-app
+  client_id: b3U6jVWv-rtaEeKzD6vrIMw-tw
+  client_secret: b3U6rQlo1gexbSIC1ew3cKq4l7vq02A
+  require_login: false
+
+test:
+  application_url: http://localhost:8080/test-organization/test-app
+  client_id: b3U6jVWv-rtaEeKzD6vrIMw-tw
+  client_secret: b3U6rQlo1gexbSIC1ew3cKq4l7vq02A
+  require_login: false
+
+production:
+  application_url: https://api.apigee.com
+  client_id: YXA6j4ZLkLtaeK8KkF0ONKX
+  client_secret: YXA6UAi7xhZ5tJjBTwEbffFHrIBA
+  require_login: false
